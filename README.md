@@ -1,0 +1,2 @@
+# testdayo
+organizationアカウントのテストリポジトリ。
